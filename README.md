@@ -1,2 +1,2 @@
 # Inne-Projekty
-programy głównie z 1 i 2 roku studiów
+Archiwum mniejszych programów głównie z 1 i 2 roku studiów
