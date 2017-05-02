@@ -1,0 +1,3 @@
+1200 4 gtx970 nvidia 1156
+1216 2 GTX960 nVidia 967
+1216 2 GTX960 nVidia 967

@@ -1,0 +1,3 @@
+1345 34 2 ddr2 max ocz 534
+2400 16 8 DDR4 BallstixSport Crucial 249
+1234 45 1 ddr2 min zan 57.21
