@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Zadania z MDiL</title>
+</head>
+
+<style type="text/css">
+/* <![CDATA[ */
+body { color: orange }
+a { font-size: 30px; color: orange; }
+
+/* ]]> */
+</style>
+
+<body background="tlo.jpg"  bgproperties="fixed" marginwidth="60" marginheight="60" link="orange" vlink="orange" alink="orange">
+
+<font color="white" size="6"><center><b>..:: Matematyka Dyskretna i Logika - Nowe zadania co tydzien ::..</b></center></font><br /><br /><br />
+<basefont size="5" color="orange" face="Courier New" />
